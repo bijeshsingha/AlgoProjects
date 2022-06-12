@@ -189,5 +189,6 @@ int main()
 {
     system("CLS");
     casinoGame();
+    system("pause");
     return 0;
 }
