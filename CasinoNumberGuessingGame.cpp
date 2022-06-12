@@ -187,6 +187,7 @@ void casinoGame()
 
 int main()
 {
+    srand(time(0));
     system("CLS");
     casinoGame();
     system("pause");
